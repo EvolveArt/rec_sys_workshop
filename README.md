@@ -1,4 +1,4 @@
-# rec_sys_workshop
+# Etude des systèmes de recommendation
 
 ## Objectif :
 
